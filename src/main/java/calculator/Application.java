@@ -3,7 +3,7 @@ import camp.nextstep.edu.missionutils.Console;
 
 import java.util.ArrayList;
 
-
+// gradlew.bat 오류가 뜬다 아무것도 모르겠다 그냥
 public class Application {
 
     // 사용자의 input을 받는다.
